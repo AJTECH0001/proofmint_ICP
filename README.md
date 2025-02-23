@@ -10,6 +10,8 @@ ProofMint is designed to provide a **trustless, verifiable, and efficient** way 
 
 The following flowchart illustrates the architecture of ProofMint and its interaction with the ICP network:
 
+![ProofMint Architecture](./src/poll_frontend_backup/assets/flowchart.png)
+
 
 ### Key Components:
 
